@@ -1,7 +1,7 @@
 # Durgesh Pal
 
 <p>
-  <strong>Staff Full-Stack & Systems Architect</strong> with <strong>9+ years of experience</strong> engineering high-throughput distributed backends, reactive web architectures, cloud infrastructure & CI/CD automation, and intelligent AI systems.
+  <strong>Staff Full-Stack & Systems Architect</strong> with <strong>9+ years of professional experience</strong> engineering high-throughput distributed backends, reactive web architectures, cloud infrastructure & CI/CD automation, and intelligent AI systems.
 </p>
 
 <p>
@@ -11,6 +11,18 @@
   <a href="https://imdurgeshpal.github.io/"><img src="https://img.shields.io/badge/Portfolio-imdurgeshpal.github.io-10B981?style=flat-square&logo=googlechrome" alt="Portfolio"></a>
   <a href="mailto:imdurgeshpal@gmail.com"><img src="https://img.shields.io/badge/Email-imdurgeshpal%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
+
+---
+
+### 📖 About Me & Engineering Philosophy
+
+I am a hands-on systems architect and full-stack engineer who thrives at the intersection of robust backend services, reactive user interfaces, and automated cloud infrastructure. Over the past 9+ years, I have helped design, scale, and deliver enterprise-grade platforms from concept to high-volume production.
+
+- **Full-Stack Systems Mastery**: True full-stack engineering extends far beyond frontend frameworks or simple APIs. It demands a holistic understanding of system behavior under load—from the Linux kernel, container runtimes, and database query planning, up through network edge proxies, resilient API contracts, and browser rendering engines. My technical core is grounded in **Java & Spring Boot** for rock-solid distributed services, and **Angular & TypeScript** for predictable, fine-grained reactive frontends.
+- **Architectural Rigor & Determinism**: I believe software should be built with mathematical precision. In financial and core business domains, I champion strict integer minor-unit arithmetic, ACID transactions, and deterministic reconciliation to completely eliminate floating-point drift. Every system I build enforces spec-driven development (SDD) where living BDD scenarios, unit test suites, and containerized end-to-end browser tests act as immutable quality gates.
+- **DevOps as a First-Class Citizen**: High-performing engineering teams require zero friction between code and production. I design declarative Infrastructure-as-Code using Docker, multi-stage CI/CD pipelines in GitHub Actions, and automated zero-downtime deployments with reverse-proxy edge routing on Cloudflare.
+- **Practical AI & Modern Tooling**: Rather than treating AI as a buzzword, I integrate AI into software as deterministic, high-leverage tooling. I design custom Model Context Protocol (MCP) servers, semantic vector retrieval pipelines, and autonomous agent domain skill packs with automated verification loops that amplify engineering velocity.
+- **Open Source Citizenship**: I believe in contributing back to the tools we depend on. I actively contribute core bug fixes and features to widely used open-source libraries like **ngx-formly**, while publishing architectural reference implementations that help other developers build better software.
 
 ---
 
