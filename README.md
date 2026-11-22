@@ -1,93 +1,64 @@
-# Durgesh Pal
+# Hi, I'm Durgesh Pal 👋
 
-<p>
-  <strong>Staff Full-Stack & Systems Architect</strong> with <strong>9+ years of professional experience</strong> engineering high-throughput distributed backends, reactive web architectures, cloud infrastructure & CI/CD automation, and intelligent AI systems.
-</p>
+**Full-Stack & Systems Engineer • 9+ Years of Experience**  
+Based in Noida / Delhi NCR, India.
 
-<p>
-  <a href="https://poolcount.com"><img src="https://img.shields.io/badge/Production%20System-poolcount.com-4F46E5?style=flat-square&logo=firefox" alt="Poolcount"></a>
-  <a href="https://pallabs.com"><img src="https://img.shields.io/badge/Product%20Studio-pallabs.com-111827?style=flat-square&logo=safari" alt="Pal Labs"></a>
-  <a href="https://www.linkedin.com/in/imdurgeshpal/"><img src="https://img.shields.io/badge/LinkedIn-imdurgeshpal-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://imdurgeshpal.github.io/"><img src="https://img.shields.io/badge/Portfolio-imdurgeshpal.github.io-10B981?style=flat-square&logo=googlechrome" alt="Portfolio"></a>
-  <a href="mailto:imdurgeshpal@gmail.com"><img src="https://img.shields.io/badge/Email-imdurgeshpal%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email"></a>
-</p>
+I love building complete software products from scratch — from fast Java backends and reactive Angular web apps to cross-platform mobile apps (iOS & Android) and automated cloud setups.
+
+[🌐 Live App: poolcount.com](https://poolcount.com) • [🏢 Product Studio: pallabs.com](https://pallabs.com) • [💼 LinkedIn](https://www.linkedin.com/in/imdurgeshpal/) • [📁 Portfolio](https://imdurgeshpal.github.io/) • [✉️ Email Me](mailto:imdurgeshpal@gmail.com)
 
 ---
 
-### 📖 About Me & Engineering Philosophy
+### 💬 About Me
 
-I am a hands-on systems architect and full-stack engineer who thrives at the intersection of robust backend services, reactive user interfaces, and automated cloud infrastructure. Over the past 9+ years, I have helped design, scale, and deliver enterprise-grade platforms from concept to high-volume production.
+Over the past 9+ years, I've worked across the full software lifecycle. I enjoy taking an idea from an empty codebase all the way to a live, polished product that people actually use.
 
-- **Full-Stack Systems Mastery**: True full-stack engineering extends far beyond frontend frameworks or simple APIs. It demands a holistic understanding of system behavior under load—from the Linux kernel, container runtimes, and database query planning, up through network edge proxies, resilient API contracts, and browser rendering engines. My technical core is grounded in **Java & Spring Boot** for rock-solid distributed services, and **Angular & TypeScript** for predictable, fine-grained reactive frontends.
-- **Architectural Rigor & Determinism**: I believe software should be built with mathematical precision. In financial and core business domains, I champion strict integer minor-unit arithmetic, ACID transactions, and deterministic reconciliation to completely eliminate floating-point drift. Every system I build enforces spec-driven development (SDD) where living BDD scenarios, unit test suites, and containerized end-to-end browser tests act as immutable quality gates.
-- **DevOps as a First-Class Citizen**: High-performing engineering teams require zero friction between code and production. I design declarative Infrastructure-as-Code using Docker, multi-stage CI/CD pipelines in GitHub Actions, and automated zero-downtime deployments with reverse-proxy edge routing on Cloudflare.
-- **Practical AI & Modern Tooling**: Rather than treating AI as a buzzword, I integrate AI into software as deterministic, high-leverage tooling. I design custom Model Context Protocol (MCP) servers, semantic vector retrieval pipelines, and autonomous agent domain skill packs with automated verification loops that amplify engineering velocity.
-- **Open Source Citizenship**: I believe in contributing back to the tools and developer resources we depend on. I actively contribute to world-renowned developer resources like **[free-for-dev](https://github.com/ripienaar/free-for-dev)** (143k+ ⭐), core bug fixes and features to widely used frameworks like **[ngx-formly](https://github.com/ngx-formly/ngx-formly)**, and architectural reference implementations that help other developers build better software.
+Here's how I approach building software:
 
----
-
-### ⚡ Systematic Full-Stack & Systems Architecture
-
-I build resilient, production-grade applications with clean layering, domain-driven design, and strict deterministic quality gates:
-
-- ☕ **Distributed Java & Enterprise Backends**:
-  - Deep expertise in **Java 21/25 LTS** and **Spring Boot 4.x**, utilizing virtual threads for high-concurrency throughput.
-  - Designing zero-floating-point financial engines with strict integer minor units, ACID transactions, and deterministic reconciliation.
-  - Production data modeling with **PostgreSQL**, **Supabase**, and Hibernate/JPA with optimized connection pooling and zero-OOM memory models.
-
-- 🅰️ **Modern Reactive Frontend Architecture**:
-  - Modern **Angular 22** standalone architecture leveraging **Signals** (`signal()`, `computed()`, `effect()`) for fine-grained reactivity.
-  - Core contributor to dynamic, schema-driven form engines and reusable design system components.
-  - Robust state management with RxJS, TypeScript strict typing, and high-performance Web APIs.
-
-- 🌐 **[Poolcount](https://poolcount.com)** — *Founder & Lead Architect* • [GitHub Repository](https://github.com/imdurgeshpal/poolcount)
-  - Full-stack production event fund pool and financial expense ledger.
-  - Unified multi-tier architecture pairing Java 25 / Spring Boot 4 with Angular 22 Signals, PostgreSQL, and Cloudflare edge proxies.
+- **End-to-End Engineering**: I work comfortably across the entire stack. Whether it's writing core business logic in Java, tuning PostgreSQL database performance, crafting responsive components in Angular, or packaging an app for iOS and Android, I love seeing how all the pieces connect smoothly.
+- **Mobile & Web Together**: I build mobile-first web applications and bring them to native iOS and Android using Capacitor. This gives users a smooth mobile experience with native device features while keeping a single, clean codebase.
+- **Reliable & Clean Code**: I believe good software should just work. I focus on clean architecture, strong typing, automated tests, and handling real-world edge cases (especially around money, transactions, and user data).
+- **Smooth DevOps**: Getting code to production shouldn't be stressful. I set up Docker containers, manage Linux servers, and automate builds and tests with GitHub Actions so updates ship safely and reliably.
+- **Practical AI & Modern Tools**: I use modern AI tools to make building software faster and smarter — from creating custom MCP (Model Context Protocol) servers and vector search pipelines to automating everyday developer workflows.
+- **Giving Back to Open Source**: Open-source tools have helped me throughout my career, so I actively contribute back with bug fixes, features, and community guides.
 
 ---
 
-### ☁️ Cloud Infrastructure, Docker & Systematic DevOps
+### 🚀 What I'm Building
 
-- **Infrastructure as Code (IaC) & Containers**: Declarative multi-environment infrastructure using **Docker** and Render Blueprints (`render.yaml`), establishing isolated UAT staging and high-availability production clusters.
-- **Automated CI/CD Pipelines**: Multi-stage GitHub Actions workflows enforcing deterministic verification gates — automated test compilation, ESLint/Prettier checks, JUnit 5 test suites, and containerized Playwright E2E browser acceptance tests.
-- **Edge Networking & Security**: Cloudflare edge orchestration (DNS management, SSL/TLS termination, DDoS mitigation, and reverse-proxy `/api/*` routing for zero-CORS overhead).
-- **Production Observability**: Health probes, automated uptime monitoring via Better Stack, and structured logging.
+- 💰 **[Poolcount](https://poolcount.com)** — *Founder & Lead Architect* • [GitHub Repository](https://github.com/imdurgeshpal/poolcount)  
+  A modern, mobile-first web and mobile app for group money collection and expense tracking.
+  - **Backend**: Built with Java 25 & Spring Boot 4, PostgreSQL, secure authentication, and exact financial ledger calculations.
+  - **Frontend & Mobile**: Built with Angular 22 (Signals & Standalone), responsive UI, packaged for Web, iOS, and Android via Capacitor.
+  - **DevOps & Cloud**: Automated CI/CD with GitHub Actions, Docker, Render, and Cloudflare edge networking.
 
----
-
-### 🤖 AI Engineering & Autonomous Tooling
-
-I leverage and integrate modern AI systems to build intelligent software and accelerate developer velocity:
-
-- **Model Context Protocol (MCP)**: Building and integrating custom MCP servers that connect LLMs to production databases, cloud APIs, and developer toolchains.
-- **Vector Search & Knowledge Ingestion**: Core developer of **[qdrant-loader](https://github.com/imdurgeshpal/qdrant-loader)** — an enterprise toolkit and MCP server for ingesting multi-source documents into Qdrant for semantic search and automated RAG pipelines.
-- **Agentic Workflows**: Architecting domain-specific agent skills (`.agents/skills`) with deterministic verification feedback loops for automated refactoring, debugging, and code review.
+- 🏢 **[Pal Labs](https://pallabs.com)** — *Product Studio* • [GitHub Repository](https://github.com/imdurgeshpal/pallabs)  
+  Parent studio and publishing home for my independent web and mobile software projects.
 
 ---
 
-### 🌟 Open Source Track Record
+### 📱 What I Work With
 
-Active contributor to core web frameworks, developer tooling, and global developer resources:
+- **Backend & Databases**: Java (21/25), Spring Boot, Spring Security, Hibernate / JPA, PostgreSQL, Supabase, REST APIs.
+- **Frontend & Web**: Angular (Signals & Standalone), TypeScript, JavaScript, RxJS, HTML5, SCSS, Responsive Design.
+- **Mobile Apps**: Cross-platform iOS & Android apps via Capacitor, Native Device Plugins, Mobile UI/UX.
+- **Cloud & DevOps**: Docker, GitHub Actions (CI/CD), Linux / VMs, Cloudflare (DNS, SSL, Proxies), Render, Playwright E2E Testing.
+- **AI & Modern Tooling**: Model Context Protocol (MCP), Vector Search (Qdrant), LLM APIs, Agent Workflows.
 
-| Repository | Focus & Contribution | Impact |
+---
+
+### 🌟 Open Source Contributions
+
+I regularly contribute to popular developer tools and open-source libraries:
+
+| Project | What I Contributed | Impact |
 | :--- | :--- | :--- |
-| **[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)** | Google Cloud services ecosystem architecture & product indexing ([PR #5239](https://github.com/ripienaar/free-for-dev/pull/5239)) | **Merged** • **143k+ ⭐** |
-| **[ngx-formly/ngx-formly](https://github.com/ngx-formly/ngx-formly)** | Core regex preservation in HTML pattern attributes ([PR #4271](https://github.com/ngx-formly/ngx-formly/pull/4271)) | **Merged** |
-| **[ngx-formly/ngx-formly](https://github.com/ngx-formly/ngx-formly)** | Dynamic fieldGroup cascading disable capability ([PR #4277](https://github.com/ngx-formly/ngx-formly/pull/4277)) | **Open / In Review** |
-| **[Angular-CRUD-Operations](https://github.com/imdurgeshpal/Angular-CRUD-Operations)** | Full-stack reactive CRUD architecture reference guide | **82+ ⭐ • 50+ Forks** |
-| **[qdrant-loader](https://github.com/imdurgeshpal/qdrant-loader)** | Vector database ingestion toolkit & MCP server for AI systems | **Toolkit & MCP** |
-| **[Angular-Configurable-Dynamic-Form](https://github.com/imdurgeshpal/Angular-Configurable-Dynamic-Form)** | Configurable schema-driven dynamic form engine in Angular | **Community Reference** |
-
----
-
-### 🛠️ Technology Stack & Core Competencies
-
-```text
-Backend Systems      Java 25 LTS • Spring Boot 4.x • Spring Security • JPA / Hibernate • PostgreSQL • Supabase • REST
-Frontend Reactive    Angular 22 • TypeScript • Angular Signals • RxJS • SCSS Architecture • Responsive UI
-DevOps & Cloud       Docker • GitHub Actions CI/CD • Linux / VMs • Cloudflare (DNS/SSL) • Render Blueprints • Playwright
-AI & Modern Tooling  Model Context Protocol (MCP) • Vector Databases (Qdrant) • RAG Pipelines • Agentic Skills
-```
+| **[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)** | Added structured product links for Google Cloud services ([PR #5239](https://github.com/ripienaar/free-for-dev/pull/5239)) | **Merged** • **143k+ ⭐** |
+| **[ngx-formly/ngx-formly](https://github.com/ngx-formly/ngx-formly)** | Fixed regex pattern handling for Angular dynamic forms ([PR #4271](https://github.com/ngx-formly/ngx-formly/pull/4271)) | **Merged** • Core Framework |
+| **[ngx-formly/ngx-formly](https://github.com/ngx-formly/ngx-formly)** | Added cascading disable support to field groups ([PR #4277](https://github.com/ngx-formly/ngx-formly/pull/4277)) | **Open / In Review** |
+| **[Angular-CRUD-Operations](https://github.com/imdurgeshpal/Angular-CRUD-Operations)** | Easy-to-follow CRUD architecture guide for Angular developers | **82+ ⭐ • 50+ Forks** |
+| **[qdrant-loader](https://github.com/imdurgeshpal/qdrant-loader)** | Vector database document loader & MCP server for AI search | **Developer Toolkit** |
+| **[Angular-Configurable-Dynamic-Form](https://github.com/imdurgeshpal/Angular-Configurable-Dynamic-Form)** | Reusable dynamic form builder in Angular | **Community Reference** |
 
 ---
 
