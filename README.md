@@ -22,7 +22,7 @@ I am a hands-on systems architect and full-stack engineer who thrives at the int
 - **Architectural Rigor & Determinism**: I believe software should be built with mathematical precision. In financial and core business domains, I champion strict integer minor-unit arithmetic, ACID transactions, and deterministic reconciliation to completely eliminate floating-point drift. Every system I build enforces spec-driven development (SDD) where living BDD scenarios, unit test suites, and containerized end-to-end browser tests act as immutable quality gates.
 - **DevOps as a First-Class Citizen**: High-performing engineering teams require zero friction between code and production. I design declarative Infrastructure-as-Code using Docker, multi-stage CI/CD pipelines in GitHub Actions, and automated zero-downtime deployments with reverse-proxy edge routing on Cloudflare.
 - **Practical AI & Modern Tooling**: Rather than treating AI as a buzzword, I integrate AI into software as deterministic, high-leverage tooling. I design custom Model Context Protocol (MCP) servers, semantic vector retrieval pipelines, and autonomous agent domain skill packs with automated verification loops that amplify engineering velocity.
-- **Open Source Citizenship**: I believe in contributing back to the tools we depend on. I actively contribute core bug fixes and features to widely used open-source libraries like **ngx-formly**, while publishing architectural reference implementations that help other developers build better software.
+- **Open Source Citizenship**: I believe in contributing back to the tools and developer resources we depend on. I actively contribute to world-renowned developer resources like **[free-for-dev](https://github.com/ripienaar/free-for-dev)** (143k+ ⭐), core bug fixes and features to widely used frameworks like **[ngx-formly](https://github.com/ngx-formly/ngx-formly)**, and architectural reference implementations that help other developers build better software.
 
 ---
 
@@ -67,10 +67,11 @@ I leverage and integrate modern AI systems to build intelligent software and acc
 
 ### 🌟 Open Source Track Record
 
-Active contributor to core web frameworks and community architecture references:
+Active contributor to core web frameworks, developer tooling, and global developer resources:
 
 | Repository | Focus & Contribution | Impact |
 | :--- | :--- | :--- |
+| **[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)** | Google Cloud services ecosystem architecture & product indexing ([PR #5239](https://github.com/ripienaar/free-for-dev/pull/5239)) | **Merged** • **143k+ ⭐** |
 | **[ngx-formly/ngx-formly](https://github.com/ngx-formly/ngx-formly)** | Core regex preservation in HTML pattern attributes ([PR #4271](https://github.com/ngx-formly/ngx-formly/pull/4271)) | **Merged** |
 | **[ngx-formly/ngx-formly](https://github.com/ngx-formly/ngx-formly)** | Dynamic fieldGroup cascading disable capability ([PR #4277](https://github.com/ngx-formly/ngx-formly/pull/4277)) | **Open / In Review** |
 | **[Angular-CRUD-Operations](https://github.com/imdurgeshpal/Angular-CRUD-Operations)** | Full-stack reactive CRUD architecture reference guide | **82+ ⭐ • 50+ Forks** |
