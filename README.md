@@ -5,7 +5,14 @@ Based in Noida / Delhi NCR, India.
 
 I love building complete software products from scratch — from fast Java backends and reactive Angular web apps to cross-platform mobile apps (iOS & Android) and automated cloud setups.
 
-[🌐 Live App: poolcount.com](https://poolcount.com) • [🏢 Product Studio: pallabs.com](https://pallabs.com) • [💼 LinkedIn](https://www.linkedin.com/in/imdurgeshpal/) • [📁 Portfolio](https://imdurgeshpal.github.io/) • [✉️ Email Me](mailto:imdurgeshpal@gmail.com)
+<p>
+  <a href="https://poolcount.com"><img src="https://img.shields.io/badge/Production%20System-poolcount.com-4F46E5?style=flat-square&logo=firefox" alt="Poolcount"></a>
+  <a href="https://pallabs.com"><img src="https://img.shields.io/badge/Product%20Studio-pallabs.com-111827?style=flat-square&logo=safari" alt="Pal Labs"></a>
+  <a href="https://x.com/imdurgeshpal"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-%40imdurgeshpal-000000?style=flat-square&logo=x" alt="X / Twitter"></a>
+  <a href="https://www.linkedin.com/in/imdurgeshpal/"><img src="https://img.shields.io/badge/LinkedIn-imdurgeshpal-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://imdurgeshpal.github.io/"><img src="https://img.shields.io/badge/Portfolio-imdurgeshpal.github.io-10B981?style=flat-square&logo=googlechrome" alt="Portfolio"></a>
+  <a href="mailto:imdurgeshpal@gmail.com"><img src="https://img.shields.io/badge/Email-imdurgeshpal%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email"></a>
+</p>
 
 ---
 
